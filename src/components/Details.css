@@ -1,0 +1,25 @@
+.details-container {
+  background: #304352;
+  background: linear-gradient(to right, #d7d2cc, #304352);
+}
+
+.carousel-container {
+  display: flex;
+  justify-content: center;
+  width: 50px;
+}
+
+.stage-breakdown-title {
+  color: white;
+}
+
+.radial-chart-container {
+  height: 450px;
+  padding: 40px;
+}
+
+.linegraph-container {
+  background: white;
+  height: 450px;
+  width: 700px;
+}

@@ -1,0 +1,36 @@
+.header-container {
+  background-color: #000000;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center; /* along y axis */
+  justify-content: space-between; /* along x axis */
+  padding: 0px 48px 0px 48px;
+}
+
+.company-name {
+  color: white;
+  font-size: 36px;
+  justify-items: center;
+  display: flex;
+  padding: 12px;
+}
+
+.logo-photo {
+  width: 90px;
+  height: 60px;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-dropdown {
+  align-items: center;
+  justify-content: center;
+}
+
+.dashboard-title {
+  font-size: 22px;
+  font-family: "Avenir Next";
+  align-self: flex-end;
+  margin-left: 5px;
+}
