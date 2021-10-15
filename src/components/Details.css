@@ -1,12 +1,10 @@
 .details-container {
-  background: #304352;
-  background: linear-gradient(to right, #d7d2cc, #304352);
+  padding: 48px;
 }
 
 .carousel-container {
-  display: flex;
-  justify-content: center;
-  width: 50px;
+  margin: auto;
+  width: 800px;
 }
 
 .stage-breakdown-title {

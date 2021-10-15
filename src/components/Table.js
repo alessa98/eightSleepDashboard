@@ -45,7 +45,9 @@ const TableComponent = () => {
   }, [userId]);
 
   if (!tableData) {
-    return <div>Loading Data...</div>;
+    return (
+      <div style={{ color: "white ", fontSize: "36px" }}>Loading Data...</div>
+    );
   }
   return (
     <div className="table-container">

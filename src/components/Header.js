@@ -8,7 +8,6 @@ const { Option } = Select;
 function Header() {
   let history = useHistory();
   let { userId } = useParams();
-  console.log(userId);
 
   return (
     <div className="header-container">
