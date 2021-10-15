@@ -1,6 +1,5 @@
 .home-container {
   background: #304352;
-  background: linear-gradient(to right, #d7d2cc, #304352);
   height: calc(100vh - 60px);
   width: 100%;
 }
