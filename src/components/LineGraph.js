@@ -1,6 +1,5 @@
 import React from "react";
 import { Line } from "@ant-design/charts";
-import moment from "moment";
 
 const LineGraph = ({ data }) => {
   console.log(Object.keys(data[0])[0]);
